@@ -1,8 +1,9 @@
 {
   "name": "scripts",
-  "version": "1.0.1",
-  "main": "naviconda",
-  "author": "zhorton@anaconda.com",
+  "version": "1.0.0",
+  "main": "scripts",
+  "author": "zhorton999@gmail.com",
+  "description": "Scripts for repository management and build processes",
   "license": "MIT",
   "private": true,
   "dependencies": {
